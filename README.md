@@ -1,4 +1,4 @@
-# GRADE SYSTEM-
+# GRADEING SYSTEM-
 # Grade Function README
 
 ## Overview
